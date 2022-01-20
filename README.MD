@@ -12,4 +12,4 @@ Examples in this code repo accompany a soon to be published blog post and talk b
 - [2-nodemon-example-with-config](https://github.com/ashleydavis/live-reload-examples/tree/main/2-nodemon-example-with-config) - This is an example of using Nodemon for live reload of a Node.js JavaScript application, this time configuration is provided via the `nodemon.json` configuration file.
 
 
-To try these examples you [Node.js](https://nodejs.org/) installed. Then clone this repo and follow the instructions in README.md in each subdirectory.
+To try these examples you need to have [Node.js](https://nodejs.org/) installed. Then clone this repo and follow the instructions in README.md in each subdirectory.
