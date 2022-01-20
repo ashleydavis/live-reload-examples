@@ -1,0 +1,16 @@
+{
+    "name": "1-nodemon-example",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "start:dev": "nodemon index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "nodemon": "^2.0.15"
+    }
+}

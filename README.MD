@@ -6,4 +6,4 @@ Examples in this code repo accompany a soon to be published blog post and talk b
 
 [Follow on Twitter for updates](https://twitter.com/codecapers)
 
-
+To try these examples you [Node.js](https://nodejs.org/) installed. Then clone this repo and follow the instructions in README.md in each subdirectory.
