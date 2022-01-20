@@ -27,4 +27,6 @@ To run the code in development with live reload enabled:
 npm run start:dev
 ```
 
+While the application is running, try changing the code in `index.js` and saving it. You should see the application automatically reload and run your updated code.
+
 The `start:dev` script is a personal convention that I regularly use. 
