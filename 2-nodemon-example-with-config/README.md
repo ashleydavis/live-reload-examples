@@ -1,13 +1,13 @@
 # 2-nodemon-example-with-config
 
-This is an example of using Nodemon for live reload of a Node.js JavaScript application, this time configuration is provided via the `nodemon.json` configuration file.
+This is an example of using [Nodemon](https://www.npmjs.com/package/nodemon) for live reload of a Node.js JavaScript application, this time configuration is provided via the `nodemon.json` configuration file.
 
 ## Get setup
 
 Install dependencies:
 
 ```bash
-cd 2-nodemon-example
+cd 2-nodemon-example-with-config
 npm install
 ```
 

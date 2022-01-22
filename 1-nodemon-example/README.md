@@ -1,6 +1,6 @@
 # 1-nodemon-example
 
-This is the simplest possible example of using Nodemon for live reload of a Node.js JavaScript application.
+This is the simplest possible example of using [Nodemon](https://www.npmjs.com/package/nodemon) for live reload of a Node.js JavaScript application.
 
 ## Get setup
 
