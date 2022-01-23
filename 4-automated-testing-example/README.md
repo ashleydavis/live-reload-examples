@@ -31,7 +31,8 @@ While the application is running, try changing the code in `index.js` and saving
 
 The `start:dev` script is a personal convention that I regularly use. 
 
-## Run automated tests with live reload
+
+## Run the automated tests
 
 Use the `npm test` convention to run automated tests:
 
@@ -39,10 +40,26 @@ Use the `npm test` convention to run automated tests:
 npm test
 ```
 
+Or to run Jest directly:
+
+```bash
+npx jest
+```
+
+## Run automated tests with live reload
+
+To run the tests so they automatically reload as you edit code, run the tests in "watch mode" using the npm script `npm run test:watch`:
+
+```bash
+npm run test:watch
+```
+
 Or run Jest directly like this:
 
 ```bash
 npx jest --watch
 ```
+
+Now try editing the JavaScript code in `src/test/index.test.js`. When you save the code changes Jest will detect it and automatically reload your automated tests.
 
 Check out `jest.config.js` for [Jest configuration options](https://jestjs.io/docs/configuration).
