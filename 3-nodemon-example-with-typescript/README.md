@@ -2,6 +2,8 @@
 
 This is an example of using [Nodemon](https://www.npmjs.com/package/nodemon) and [ts-node](https://www.npmjs.com/package/ts-node) for live reload of a Node.js TypeScript application, configuration is provided via the `nodemon.json` configuration file.
 
+For a more complete TypeScript starting point, please my code repository [typescript-template](https://github.com/ashleydavis/typescript-template).
+
 ## Get setup
 
 Install dependencies:

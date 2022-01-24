@@ -13,5 +13,6 @@ Examples in this code repo accompany a soon to be published blog post and talk b
 - [3-nodemon-example-with-typescript](https://github.com/ashleydavis/live-reload-examples/tree/main/2-nodemon-example-with-config) - This is an example of using [Nodemon](https://www.npmjs.com/package/nodemon) and [ts-node](https://www.npmjs.com/package/ts-node) for live reload of a Node.js TypeScript application.
 - [4-automated-testing-example](https://github.com/ashleydavis/live-reload-examples/tree/main/4-automated-testing-example) - This is an example of automated tests using [Jest](https://jestjs.io/) in "watch mode" so your tests automatically reload as you are changing your code.
 - [5-automated-testing-with-typescript](https://github.com/ashleydavis/live-reload-examples/tree/main/5-automated-testing-with-typescript) - This is an example of automated tests using [Jest](https://jestjs.io/) in "watch mode" so your TypeScript tests automatically reload as you edit your code.
-
+- [6-frontend-with-parcel](https://github.com/ashleydavis/live-reload-examples/tree/main/6-frontend-with-parcel) - This the simplest possible example of a frontend bundled with [Parcel](https://parceljs.org/). Parcel has built in "live reload" you simply run it, then as you edit your code Parcel refreshes your browser to show the updated web page.
+  
 To try these examples you need to have [Node.js](https://nodejs.org/) installed. Then clone this repo and follow the instructions in README.md in each subdirectory.
