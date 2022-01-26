@@ -44,3 +44,14 @@ npx parcel build src/index.html
 ```
 
 The static web page is output to the `dist` subdirectory. You can deploy this to your production web server.
+
+You can test static web page using `live-server`:
+
+```bash
+npx live-server --open=index.html dist
+```
+
+Live server should open your browser and navigate to show the static web page.
+
+
+

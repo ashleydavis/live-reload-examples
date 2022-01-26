@@ -2,15 +2,16 @@
   "name": "4-frontend-with-parcel",
   "version": "1.0.0",
   "description": "",
-  "main": "src/index.html",
   "scripts": {
     "start": "parcel src/index.html",
-    "build": "parcel build src/index.html"
+    "build": "parcel build src/index.html",
+    "clean": "rm -rf dist"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "live-server": "^1.2.1",
     "parcel": "^2.2.1"
   }
 }

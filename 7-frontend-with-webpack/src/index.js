@@ -3,4 +3,4 @@
 // See README.md for details on running this code.
 //
 
-console.log('Hello world from Parcel!');
+console.log('Hello world!');
