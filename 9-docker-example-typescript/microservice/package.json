@@ -1,0 +1,21 @@
+{
+    "name": "3-nodemon-example-with-typescript",
+    "version": "1.0.0",
+    "description": "",
+    "main": "build/index.js",
+    "scripts": {
+        "start": "node ./build/index.js",
+        "start:dev": "nodemon --legacy-watch",
+        "build": "tsc --incremental",
+        "clean": "rm -rf ./build && rm tsconfig.tsbuildinfo"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/node": "^17.0.10",
+        "nodemon": "^2.0.15",
+        "ts-node": "^10.4.0",
+        "typescript": "^4.5.5"
+    }
+}

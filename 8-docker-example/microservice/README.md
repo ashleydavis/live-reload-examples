@@ -1,8 +1,8 @@
-# microservice
+# JavaScript microservice
 
-This is an example Node.js microservice that demonstrates "live reload" when running under Docker.
+This is an example Node.js JavaScript microservice that demonstrates "live reload" when running under Docker.
 
-Please see the readme in the parent directory to run this Node.js application under Docker. You can also run this directly under Node.js followign the instructions below.
+Please see the readme in the parent directory to run this Node.js application under Docker. You can also run this directly under Node.js following the instructions below.
 
 ## Get setup
 
