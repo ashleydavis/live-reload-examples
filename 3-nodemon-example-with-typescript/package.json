@@ -9,9 +9,6 @@
         "build": "tsc --incremental",
         "clean": "rm -rf ./build && rm tsconfig.tsbuildinfo"
     },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
     "devDependencies": {
         "@types/node": "^17.0.10",
         "nodemon": "^2.0.15",

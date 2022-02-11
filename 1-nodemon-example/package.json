@@ -7,9 +7,6 @@
         "start": "node index.js",
         "start:dev": "nodemon index.js"
     },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
     "devDependencies": {
         "nodemon": "^2.0.15"
     }

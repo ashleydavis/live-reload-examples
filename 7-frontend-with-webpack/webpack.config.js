@@ -8,6 +8,7 @@ module.exports = {
         path: path.resolve(__dirname, 'dist'), // This has to be an absolute path!
     },
     devtool: "source-map",
+    mode: "development",
     devServer: {
         static: './dist',
         hot: false,

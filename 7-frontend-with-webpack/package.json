@@ -3,13 +3,10 @@
     "version": "1.0.0",
     "description": "",
     "scripts": {
-        "build": "webpack --config webpack.config.js --mode=production",
+        "build": "webpack",
         "clean": "rm -rf ./dist",
-        "start": "webpack serve --open --config webpack.config.js --mode=development"
+        "start": "webpack serve --open"
     },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
     "devDependencies": {
         "html-webpack-plugin": "^5.5.0",
         "live-server": "^1.2.1",

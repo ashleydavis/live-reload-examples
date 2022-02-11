@@ -1,19 +1,16 @@
 {
-  "name": "4-automated-testing-example",
-  "version": "1.0.0",
-  "description": "",
-  "main": "src/index.js",
-  "scripts": {
-    "start": "node src/index.js",
-    "start:dev": "nodemon",
-    "test": "jest --runInBand",
-    "test:watch": "jest --runInBand --watch"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "jest": "^27.4.7",
-    "nodemon": "^2.0.15"
-  }
+    "name": "4-automated-testing-example",
+    "version": "1.0.0",
+    "description": "",
+    "main": "src/index.js",
+    "scripts": {
+        "start": "node src/index.js",
+        "start:dev": "nodemon",
+        "test": "jest",
+        "test:watch": "jest --watch"
+    },
+    "devDependencies": {
+        "jest": "^27.4.7",
+        "nodemon": "^2.0.15"
+    }
 }
