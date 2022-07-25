@@ -9,7 +9,7 @@
         "build": "tsc --incremental",
         "clean": "rm -rf ./build && rm tsconfig.tsbuildinfo",
         "test": "jest",
-        "test:watch": "jest --watch"
+        "test:watch": "jest --watchAll"
     },
     "devDependencies": {
         "@types/jest": "^27.4.0",
